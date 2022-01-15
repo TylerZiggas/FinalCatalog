@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/console_button"
+        android:duration="1000" />
+
+    <item
+        android:drawable="@drawable/console_button_idle"
+        android:duration="1000" />
+
+    <item
+        android:drawable="@drawable/console_button_startup"
+        android:duration="1000" />
+
+    <item
+        android:drawable="@drawable/console_button_on"
+        android:duration="1000" />
+</animation-list>
